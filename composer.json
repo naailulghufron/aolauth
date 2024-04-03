@@ -1,0 +1,22 @@
+{
+    "name": "nghufron/aolauth",
+    "description": "Accurate Online Generate Token",
+    "type": "laravel-package",
+    "require": {
+        "illuminate/support": "^11.1",
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nghufron\\Aolauth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "naailulghufron",
+            "email": "naailul@yahoo.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}

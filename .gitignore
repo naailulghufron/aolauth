@@ -1,0 +1,7 @@
+/node_modules
+/public
+/public/storage
+/storage/*.key
+/vendor
+.env
+/.vscode
